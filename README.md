@@ -9,7 +9,7 @@ The raw data is provided in nested json format and requires using custom code to
 
 The Data Model in Entity-Relationship Diagram notation:
 
-<img src="images/data_model-ERD.png" alt="DMERD" width="50%" height="50%">
+<img src="images/data_model-ERD.png" alt="DMERD" width="60%" height="60%">
 
 ## Data Dictionaries
 
